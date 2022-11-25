@@ -58,7 +58,7 @@
     border-radius: 0;
     height: 4em;
     font-size: 1.2em;
-    background-color: #dbdbdb;
+    background-color: #ff6347;
     cursor: pointer;
   }
   
@@ -67,16 +67,16 @@
   }
   
   #botoes button:hover {
-    background-color: #bababa;
+    background-color: #333;
     border-color: #999;
   }
   
   #botoes #equal-btn {
     grid-column: span 2;
-    background-color: #75a5cb;
+    background-color: #777;
   }
   
   #botoes #equal-btn:hover {
     grid-column: span 2;
-    background-color: #3a91d8;
+    background-color: #4169e4;
   }
