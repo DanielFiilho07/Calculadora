@@ -2,4 +2,4 @@
 
 <h4 aling="center"> Projeto, aprimorando as habilidades: CSS, HTML, JavaScript e DOM. </h4>
 
-<img id="calculadora" src="calculadora.png" alt="Calculadora" />
+<img id="calculadora" src="calculadoraa.png" alt="Calculadora" />
